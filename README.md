@@ -1,4 +1,4 @@
-This is an educational repository that contains homeworks, completed as part of Vadim Ksendzov's training course on software testing. Here I am learning how to work in GitHub. Below is my homework and solution
+This is an educational repository that contains homeworks, completed as part of Vadim Ksendzov's training course on software testing. Here I am learning how to work in Postman. Below is my homework and solution
 # HomeworkPostman_Masalskaya
 
 ## Создать запросы в Postman.
